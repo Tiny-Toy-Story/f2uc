@@ -5,7 +5,7 @@
 ```
 ./make.sh
 ```
-## How do to use fuc
+## How do to use f2uc
 ```
 #include <stdio.h>
 #include <f2uc.h>
