@@ -1,4 +1,6 @@
-# f2uc
+# Float convert unsigned char(f2uc)
+
+You can save weight.xxx and include this file.
 
 ## Building
 
